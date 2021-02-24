@@ -1,3 +1,4 @@
 content/*  @zcyzzu
 /content/*  @zcyzzu
 /content/  @zcyzzu
+*.hbs        @zcyzzu
